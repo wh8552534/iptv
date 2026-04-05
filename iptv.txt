@@ -14,8 +14,8 @@ CCTV12-社会与法,http://1.205.156.162:9999/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV13-新闻,http://1.205.156.162:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14-少儿,http://1.205.156.162:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15-音乐,http://1.205.156.162:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-卫视,#genre#
 CCTV5+,http://1.205.156.162:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+卫视,#genre#
 贵州卫视-1,http://1.205.156.162:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视-2,http://1.205.156.162:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视-4,http://1.205.156.162:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
