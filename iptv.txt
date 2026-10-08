@@ -155,7 +155,7 @@ CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
-港澳频道,#genre#
+港澳频道[挂梯],#genre#
 HOY TV,https://cdn.qd.je/163189/hoy
 HOY TV,https://cdn.qd.je/163189/hoy2
 HOY资讯台,https://cdn.qd.je/163189/hoy78
@@ -200,3 +200,16 @@ TVB星河,https://cdn.qd.je/163189/xinghe
 海峡卫视,https://cdn.qd.je/163189/hxws
 海峡卫视,https://cdn.qd.je/163189/hxws2
 华丽翡翠台(硬字幕),https://cdn.qd.je/163189/jade
+
+私密频道_169169,#genre#
+惊艳1,rtmp://112.29.121.74/live/易發TV-jyt
+香蕉2,rtmp://112.29.121.74/live/易發TV-xjt
+松视1,rtmp://112.29.121.74/live/易發TV-s1t
+惊艳2,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+惊艳(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘多拉(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+彩虹(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松1(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松2(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松3(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+香蕉(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
