@@ -60,7 +60,7 @@ CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
 鬼吹灯之精绝古城,http://footyun.top:35455/huya/11352871
 鬼吹灯之怒晴湘西,http://footyun.top:35455/huya/11602075
 鬼吹灯之龙岭迷窟,http://footyun.top:35455/huya/29465863
-笑傲江湖,http://footyun.top:35455/huya/26355790
+CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
 神雕侠侣,http://footyun.top:35455/huya/11352964
 贺岁电影,http://footyun.top:35455/huya/11601986
 陀枪师姐,http://footyun.top:35455/huya/29465857
@@ -100,7 +100,7 @@ CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
